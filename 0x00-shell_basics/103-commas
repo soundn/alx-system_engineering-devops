@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aFmX --file-type
+ls -aFm --file-type
